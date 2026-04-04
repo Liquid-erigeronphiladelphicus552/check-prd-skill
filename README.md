@@ -89,6 +89,12 @@ python3 scripts/build.py     # 生成 dist/check-prd-universal-prompt.md 和 dis
 python3 scripts/validate.py  # 校验结构
 ```
 
+## 社区贡献：飞书 CLI 协作版
+
+[@Scofy0123](https://github.com/Scofy0123) 基于标准版 `check-prd` 扩展了一个飞书协作变体，将 PRD 评审能力接入飞书文档协作闭环，支持评论回写、反馈收集、确认修改、交付判断等流程能力。感谢他的贡献！
+
+详见分支：[check-prd-skill飞书CLI协作版](https://github.com/pmYangKun/check-prd-skill/tree/check-prd-skill飞书CLI协作版(Special-tks-to-Scofy))
+
 ## 理论依据
 
 - **《决胜B端（第二版）》**：业务调研、定位、架构设计、数据建模、流程设计、项目管理
